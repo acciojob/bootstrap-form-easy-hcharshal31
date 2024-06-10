@@ -1,0 +1,26 @@
+label, input , select{
+	display: block;
+}
+
+div{
+	display: inline-block;
+	/* width: 33%; */
+}
+
+
+input,select{
+	width: 33vw;
+}
+
+h1{
+	padding-bottom: 50px;
+}
+
+#college-input{
+	width: 50vw;
+}
+
+.checkbox{
+	display: inline;
+	margin-left: -200px;
+}
